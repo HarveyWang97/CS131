@@ -1,0 +1,599 @@
+Connection from ('127.0.0.1', 58471)
+Data receive: 'AT Welsh +0.0017058849334716797 be722b24e63742f9ab08b99052e5eadb +34.068930-118.445127 1512432874.357778072\n'
+add a friend from Hamilton to Alford
+add a friend from Hamilton to Holiday
+Disconnected from ('127.0.0.1', 58471)
+CONNECTION MADE WITH ('127.0.0.1', 15205)
+WRITE TO ('127.0.0.1', 15205):
+AT Welsh +0.0017058849334716797 be722b24e63742f9ab08b99052e5eadb +34.068930-118.445127 1512432874.357778072
+
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Welsh +0.0017058849334716797 be722b24e63742f9ab08b99052e5eadb +34.068930-118.445127 1512432874.357778072
+
+Connection from ('127.0.0.1', 58479)
+Data receive: 'AT Welsh +0.0017058849334716797 be722b24e63742f9ab08b99052e5eadb +34.068930-118.445127 1512432874.357778072\n'
+Disconnected from ('127.0.0.1', 58479)
+Connection from ('127.0.0.1', 58489)
+Data receive: 'AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078\n'
+add a friend from Hamilton to Alford
+add a friend from Hamilton to Holiday
+Disconnected from ('127.0.0.1', 58489)
+CONNECTION MADE WITH ('127.0.0.1', 15205)
+WRITE TO ('127.0.0.1', 15205):
+AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078
+
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078
+
+Connection from ('127.0.0.1', 58496)
+Data receive: 'AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078\n'
+Disconnected from ('127.0.0.1', 58496)
+Connection from ('127.0.0.1', 58503)
+Data receive: 'WHATSAT 6049e9487da6412691d7bb6f21a36b7c 1 1\n'
+Connecting to Google with the message GET /maps/api/place/nearbysearch/json?key=AIzaSyDrVVqQOtz4EqUnXnb1Vnluw3zJuYSlfh8&location=34.068930,-118.445127&radius=1000 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078
+{
+   "html_attributions": [],
+   "next_page_token": "CpQCDwEAAPg4AsCaamOGoZb5e-wcUsc8JtSEE-yyJWcuMZsxDa-6s-ubnND9zu88SONk8HG2Uc8nGR9jcc-ueLRCHAPtMT2FcfkC5qDhQjX17fbKyDuBEg94nLiu91heae0xOzUbrQjkKU478gLzfrVkmbgetSK7CHbP1jHFc1XoXKXHgt9RUKa82C60ODK3vNqrTcsYMeY9rFJsZlLYhcH81cy9wnyFOlPyTOjW0FQnabK9aRYbdg9UzKvpY0FU_x_HfFJ0cp7GqefKuH2aM6hZz_Vtbo1Je3YTzl1joFEI2YJsZM0daBMNMR-vnKxEjt5Ypfe_RUt2dOiYEqHTqZoDElehOVOaYoIIQUS_6dmra9z0aOREEhCwBB293JQ1ScoPC2hxuFWuGhSwTpv5Kpfw3ze-aqE8mv3dpBw1Gw",
+   "results": [
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0522342,
+               "lng": -118.2436849
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.3373061,
+                  "lng": -118.1552891
+               },
+               "southwest": {
+                  "lat": 33.7036519,
+                  "lng": -118.6681759
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+         "name": "Los Angeles",
+         "photos": [
+            {
+               "height": 712,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/100101449848330425696/photos\">Patrick Morrison</a>"
+               ],
+               "photo_reference": "CmRaAAAAKKGaS1Nrj36VMmKv-SBfgECwqqmwgm7MOwGaTNRrYqI4GEQg-fjKKOUtAMyqICVOfr0Ly4ewkIcZvNVLrb-7tQl8OUS6ZnL6DWNu0gryHNz6n7zydHx2923DdIJXequIEhDKdw3mOCsxbIgvH53O1IFfGhRiGki11tAwlJ6Q_d_4XzJqd5Ut5g",
+               "width": 1200
+            }
+         ],
+         "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+         "reference": "CmRbAAAA7XI-leXY0TBcmUW6MBKV4SsU_ywnTQMHa3wwyuZlKfVm-aRJRbk5XDvsLNoMxBwH4QIDkbmRfJjSvvNd8MaVO-tSLy-OsL9yjZmeIdnUlb0DGSBi-yp4R82FKkkcQGOHEhCDbOhngglYrYudIaNnSHvVGhQ9QyCRtO5X14hjbj_2OJD4Q5OEPw",
+         "scope": "GOOGLE",
+         "types": [
+            "locality",
+            "political"
+         ],
+         "vicinity": "Los Angeles"
+      }
+   ],
+   "status": "OK"
+}
+
+
+Disconnected from ('127.0.0.1', 58503)
+Connection from ('127.0.0.1', 58508)
+Data receive: 'AT Alford +0.0012199878692626953 d5e6a1d3f8634e46acafb5445faf29bb +34.068930-118.445127 1512432877.819586992\n'
+add a friend from Hamilton to Alford
+add a friend from Hamilton to Holiday
+Disconnected from ('127.0.0.1', 58508)
+CONNECTION MADE WITH ('127.0.0.1', 15205)
+WRITE TO ('127.0.0.1', 15205):
+AT Alford +0.0012199878692626953 d5e6a1d3f8634e46acafb5445faf29bb +34.068930-118.445127 1512432877.819586992
+
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Alford +0.0012199878692626953 d5e6a1d3f8634e46acafb5445faf29bb +34.068930-118.445127 1512432877.819586992
+
+Connection from ('127.0.0.1', 58516)
+Data receive: 'AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970\n'
+add a friend from Hamilton to Alford
+add a friend from Hamilton to Holiday
+Disconnected from ('127.0.0.1', 58516)
+Connection from ('127.0.0.1', 58519)
+CONNECTION MADE WITH ('127.0.0.1', 15205)
+WRITE TO ('127.0.0.1', 15205):
+AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970
+
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970
+
+Data receive: 'AT Alford +0.0012199878692626953 d5e6a1d3f8634e46acafb5445faf29bb +34.068930-118.445127 1512432877.819586992\n'
+Disconnected from ('127.0.0.1', 58519)
+Connection from ('127.0.0.1', 58527)
+Connection from ('127.0.0.1', 58530)
+Data receive: 'AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970\n'
+Disconnected from ('127.0.0.1', 58527)
+Data receive: 'AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970\n'
+add a friend from Hamilton to Alford
+add a friend from Hamilton to Holiday
+Disconnected from ('127.0.0.1', 58530)
+CONNECTION MADE WITH ('127.0.0.1', 15205)
+WRITE TO ('127.0.0.1', 15205):
+AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970
+
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970
+
+Connection from ('127.0.0.1', 58539)
+Data receive: 'AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970\n'
+Disconnected from ('127.0.0.1', 58539)
+Connection from ('127.0.0.1', 58551)
+Data receive: 'IAMAT 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117\n'
+Send to customer:b'AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117\n'
+add a friend from Hamilton to Alford
+add a friend from Hamilton to Holiday
+Disconnected from ('127.0.0.1', 58551)
+CONNECTION MADE WITH ('127.0.0.1', 15205)
+WRITE TO ('127.0.0.1', 15205):
+AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117
+
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117
+
+Connection from ('127.0.0.1', 58554)
+Data receive: 'WHATSAT 5cd5aa047f24427db0a261aa02655b8e 1 10\n'
+Connection from ('127.0.0.1', 58555)
+Data receive: 'AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117\n'
+Connection from ('127.0.0.1', 58558)
+Disconnected from ('127.0.0.1', 58555)
+Data receive: 'AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117\n'
+Disconnected from ('127.0.0.1', 58558)
+Connecting to Google with the message GET /maps/api/place/nearbysearch/json?key=AIzaSyDrVVqQOtz4EqUnXnb1Vnluw3zJuYSlfh8&location=34.068930,-118.445127&radius=1000 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117
+{
+   "html_attributions": [],
+   "next_page_token": "CpQCDwEAAITcuT8ZJBc7N-dNdqgjX1rGzGaZwOfsXAnZQEdTDE92Ynl5g0UE9TFUmVWuAKWt3PUFr-KOdMrYPesJMAUkAS3xq5BwsVkvXEtr77uteoyP6qg0pxZIaoNfx7rLavbBE2ll2trg_blKEy7dC0_MWS2tqOTkHphux7MXuglKZMWU5eEB383S3wqsuQC2Y1hJUGeH-zRbn42Xxj3kRyvbcXXnylvHrB2vPNC6BUY3ZgaHBwLPAUiXRuVYTJtA3pzbU53ntFWSMaUF3tzbczCk7_y-R1RIhig9EYaLAV2jlagBYK3VFgmajdqCNYzQxMxEARMg6MFpjk6k5rz5aAOcwkWcrzY7tXQd7OUSkhttP5OTEhBIWTVVW5EA_lB50SxNkJ17GhQIjgF9T93VqUC6Ob5zvn_i_-kb0g",
+   "results": [
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0522342,
+               "lng": -118.2436849
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.3373061,
+                  "lng": -118.1552891
+               },
+               "southwest": {
+                  "lat": 33.7036519,
+                  "lng": -118.6681759
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+         "name": "Los Angeles",
+         "photos": [
+            {
+               "height": 712,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/100101449848330425696/photos\">Patrick Morrison</a>"
+               ],
+               "photo_reference": "CmRaAAAAesNRyp1C_rpsARUy30M-sKJCP6Zd5jvVb9pJEfbt6ZtoIPdCCZbIek2fQUvJnp81yUFmCisX5sIk086RowPghpA8SeVthOq-4YJyLisQo-LlC7hRD4d3K4BkirvZi11cEhDO3uWmEMSaJQkI-RMW-KOtGhRF_HEsB92YJfpe_aVh022yfqocwQ",
+               "width": 1200
+            }
+         ],
+         "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+         "reference": "CmRbAAAAa8yc16mtEsbYN7cyc3BI0M69NIcN82LxCsggCSX5Fp0uB6o2Pm82b5ftIzr0qm6jZdI-nP2wzRArqw2qbKDLE78tQveID73gL0n0gBPSJbtfX2KUz2vq4m7msaHymejREhArf1rCk-4yzXHCmruVE7_hGhRivMXtZrIGeMqYOdBZ9LU5QpN5Fg",
+         "scope": "GOOGLE",
+         "types": [
+            "locality",
+            "political"
+         ],
+         "vicinity": "Los Angeles"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.06318630000001,
+               "lng": -118.4415976
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.0645233302915,
+                  "lng": -118.4401413697085
+               },
+               "southwest": {
+                  "lat": 34.0618253697085,
+                  "lng": -118.4428393302915
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id": "ddb6b9d2e25032f5541bfcf42b91f6c1161be1a2",
+         "name": "Hilgard House Hotel & Suites",
+         "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+         },
+         "photos": [
+            {
+               "height": 260,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/114543748345978093084/photos\">Hilgard House Hotel &amp; Suites</a>"
+               ],
+               "photo_reference": "CmRaAAAA-cN8nnGlEy0KFo63Da406mHgY_0eITg2PdvbCm1KxdioHnkzzUHLE6gszYEbzdH99FweZ-QjlnmVhCQ1uRGyfxdX5PI00wkKnnVse3U-ftT4DTWXYQev5bZhuiJZCfN8EhAZ5JlkXwG7vtHvz-ONfPQOGhTMk2VW5Kxs6-WImZrb4l3Oi-_FJQ",
+               "width": 300
+            }
+         ],
+         "place_id": "ChIJ06ecwoC8woARVyPlQNVzetI",
+         "rating": 3.8,
+         "reference": "CmRSAAAAYu12_gNwEtFbK_ii37O8yRRADqdsr_R57cc0mcf1I4BX3xrfZsRUnEeJiSB6SZC15Cs-q3x3DCGRy6kD5-BnJ5gqFhIYdNY9xwVx9NtEVrh1ldY5vqME8_kQuUKD6MLrEhB4uMPhUL6aBgCorbwKsKS5GhQs9YIGNAEzzqiq5LpzMOWIpQ5eeQ",
+         "scope": "GOOGLE",
+         "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "927 Hilgard Avenue, Los Angeles"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0631975,
+               "lng": -118.4409234
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.0646332802915,
+                  "lng": -118.4397818697085
+               },
+               "southwest": {
+                  "lat": 34.0619353197085,
+                  "lng": -118.4424798302915
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id": "123c3294a684a0fb173c40813459506d1420c75b",
+         "name": "W Los Angeles - West Beverly Hills",
+         "photos": [
+            {
+               "height": 2598,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/106717016222686749028/photos\">W Los Angeles - West Beverly Hills</a>"
+               ],
+               "photo_reference": "CmRaAAAAktv2hXashdmAPWcbvoJQzdcz5ePxJUosJ_i2n_UsVU3FXbtSbQUH3734kIleNEIjT2kblWuoMP9o8jxcLPg8rvQz_eR15g5zp1rk24V-pvO8Cnz8yWCL2k-K5Us8ycenEhDVFW5rFMmuO1n5h_OfHQ4mGhS8OzQ6xnHrzDFCUk0CMlCmaXmsuQ",
+               "width": 3840
+            }
+         ],
+         "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+         "rating": 4.2,
+         "reference": "CmRRAAAA8UBSqukA-9DazjpbOudRcL3QzsO88bNo5wuaRUjexa53eIYCtEV_a7EUOB138uk-kA1l2wlKVN3BRTD6jfg35zGVFAmF_actKthAfPDBH_SlCwGokvBvr1IfZF7Hm9rzEhC6ygZh_soRbtdrFvTAMU1hGhQ_TrJCQRkzkVqQvQypwCJ8LM7jAQ",
+         "scope": "GOOGLE",
+         "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "930 Hilgard Avenue, Los Angeles"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0606338,
+               "lng": -118.4429579
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.06200038029149,
+                  "lng": -118.4417208697085
+               },
+               "southwest": {
+                  "lat": 34.05930241970849,
+                  "lng": -118.4444188302915
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id": "d9aae9960743eec4c49c99ac8a437b7ddbef7c63",
+         "name": "Royal Palace Westwood Hotel",
+         "photos": [
+            {
+               "height": 2988,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/114094194621340748848/photos\">Carefree 1AZ</a>"
+               ],
+               "photo_reference": "CmRaAAAApSKFPA2DdeJVhGnnjB4h_p6ZgUEplRgQWMqmXzmJE3Ob8977h4yrCcKSDoLjpD38TRbXsdtmyBCDjyZ5Fl0ZX3IulhSV7Om680FF3EW-2_tNdEx2h5bMMWiefysPFFbREhCy8k3h2mXJqR1z_0y82fkeGhTsecVgObBFszkCsBCvkKj4DqqqjQ",
+               "width": 5312
+            }
+         ],
+         "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+         "rating": 4,
+         "reference": "CmRRAAAAOtLqiwItlYLyOvndGN9GOCf7r63Wwyoiz640iH5ewxbibKmPq02K6Chg2Ubh5mIozGAj4Z_of1TOMmesDesC08J0KidxH5nN8x7b9aJgF2WBtBunrfZH8wGIeugFD7l0EhDepaFP-YGw3YxQpuM4gRnjGhT_qhV3mpDoQLwNqbEX9lu0OYgdYQ",
+         "scope": "GOOGLE",
+         "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "1052 Tiverton Avenue, Los Angeles"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.068921,
+               "lng": -118.4451811
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.08632165,
+                  "lng": -118.4298687
+               },
+               "southwest": {
+                  "lat": 34.05637465,
+                  "lng": -118.4632287
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+         "name": "University of California, Los Angeles",
+         "photos": [
+            {
+               "height": 2432,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/104814070553445544652/photos\">Thomas Chee</a>"
+               ],
+               "photo_reference": "CmRaAAAANoLEW7PzY14wXWHjTOoAhhEZFAjt305pAlRCXO7MIXL9jA0eG8w5EuVLuUh-kOT0uLOqVnXmRHKNCPoNRjgL7jnrr9cPduIzTuUstZiuTmS3bFDEzMDffJ1L6Rfs9Ig2EhAUuAyPSeFTfM35BRO9aceVGhSKXhg-tMpMRHv6mJZ_gqqUyAqQCA",
+               "width": 3648
+            }
+         ],
+         "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+         "rating": 4.5,
+         "reference": "CmRRAAAAZLFSangLCI6sZEfddgcSX88T5x_UA6GYHJxM--WzYSRgKjzeUVnA5ykOcTprTHRluD-NubvRByM6zy42cXbX68EH5cUse4bYoGHvjyrFKOWkOPpBmyWaTqAC-qWMdvG5EhDI67aiQyjaRAvMrBfIAPGTGhSXS6ggbzBMQ_I14Jiw-IgGbcQqig",
+         "scope": "GOOGLE",
+         "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Los Angeles"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.06309710000001,
+               "lng": -118.4480814
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.0644501802915,
+                  "lng": -118.4468609197085
+               },
+               "southwest": {
+                  "lat": 34.06175221970851,
+                  "lng": -118.4495588802915
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id": "9ffb2ac5b64312c78f404379d92a42500e610147",
+         "name": "In-N-Out Burger",
+         "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+         },
+         "photos": [
+            {
+               "height": 3006,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/101275734995276729314/photos\">Daniel Sharpe</a>"
+               ],
+               "photo_reference": "CmRaAAAAWD_Iw9-kq1P8u4qFRJcij5kmi_UGqshFUaAjeoXyCChUgnhMyFfEGD2Yp__22KmtoyjH70ZeiTIcLauMlidNloFT1kQmj7R9O8wgCu5OqQ5avGpeHq48Ya5Yg8LefIDQEhA9uoE9kmugVCRXqAWeIqASGhQUqIvUcnAk6ohCusuL5NJdu-Jqgg",
+               "width": 5344
+            }
+         ],
+         "place_id": "ChIJKZm9foS8woAR4oa_Lf37xIQ",
+         "price_level": 1,
+         "rating": 4.4,
+         "reference": "CmRSAAAAkfxVSpFZBgEn9Hp_zyiXkLy95P4L0Qlops7NHdA0L3WyUxHs85ZB2iTjdO5M42idP5ATJVn8MSLrfslYWhWAblrry5PxRvivipTNipxqDaqEy97LnQnYbHsLZQN6EeGqEhD2myMhp8EnizKvenqUJAa4GhSuhRcuBLzJopCjSUV4kb320IFSMA",
+         "scope": "GOOGLE",
+         "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "922 Gayley Avenue, Los Angeles"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0635118,
+               "lng": -118.4443932
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.06495078029151,
+                  "lng": -118.4430401697085
+               },
+               "southwest": {
+                  "lat": 34.06225281970851,
+                  "lng": -118.4457381302915
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id": "dd47666399a5237e7482c94bbf6d353dfdb20f0b",
+         "name": "Geffen Playhouse Theater",
+         "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+         },
+         "photos": [
+            {
+               "height": 542,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/116946176814366589008/photos\">Geffen Playhouse Theater</a>"
+               ],
+               "photo_reference": "CmRaAAAAuVLOVA7pYzn8toEKjVLKDrVJ6IU_S8t0VWDCl8YaYhcTP89_M0OKDTnlQeqQ41tCthRoHyLKdPEYDwk61LlE9T--K6K9XpI2N-JQR3WkYZtzAr4hTOmDalZZbYJ2oi_GEhAwn_Is5WKd09fijjBVkxUaGhStEkOAU9ttKW-9L4OnYHXLKgXe3g",
+               "width": 1589
+            }
+         ],
+         "place_id": "ChIJC9ZmTYG8woARUQOWZ4HWAtU",
+         "rating": 4.6,
+         "reference": "CmRSAAAAn9chk38aSndbNyQOICB8AVV-kWlNPdTLnAdWSg4BSVum11jlmqC9kKS9iR4wALvO4RGI3Symc-dUFt8pUD9u7-NcCLTKgdY2xBlw3MXId7UxwDsqBF-vIV_4jnwuGd1TEhCBsDPhctSg2AHA5AL00BnWGhSBJQr4-_8G20XWussNC3zYls3INA",
+         "scope": "GOOGLE",
+         "types": [
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "10886 Le Conte Avenue, Los Angeles"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0658937,
+               "lng": -118.4433608
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.0672426802915,
+                  "lng": -118.4420118197085
+               },
+               "southwest": {
+                  "lat": 34.0645447197085,
+                  "lng": -118.4447097802915
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id": "0ce2555603c4fdbc3886df6a6c31cf289bcc0308",
+         "name": "Cameron Robert Bria MD",
+         "place_id": "ChIJMYX43oa8woARbnkNHkr1pxs",
+         "reference": "CmRRAAAA_t4SRYRZ5_1ZOT-qYZHxC3d0I9Yx7HA4keRTv8J3NocK7ROFethJTBhd-EW9iwcCdwpgP5PABVtzTGBrYRzjPXmcBNFbFWQ_Qkh1WsQH3zps-DG8UhykN8eGtSiOyaCLEhAFcxlzJdkiDK4AAwBwoD_cGhRLaKxTuMNVp8O1U1RVX0RQyoIxcA",
+         "scope": "GOOGLE",
+         "types": [
+            "doctor",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "10833 Le Conte Avenue, Los Angeles"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0658937,
+               "lng": -118.4433608
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.0672426802915,
+                  "lng": -118.4420118197085
+               },
+               "southwest": {
+                  "lat": 34.0645447197085,
+                  "lng": -118.4447097802915
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id": "332238752c672d04c632a17dad4886508c77794e",
+         "name": "Kim Ja-Hong MD",
+         "place_id": "ChIJMYX43oa8woARJhXe6Xg9-W8",
+         "rating": 5,
+         "reference": "CmRRAAAAY5XdGqhTdY8iUVnJis_BDJNmKhqdLM9xWFpfOwbGcv2M-piEfOo1nOVA1ydGXFIso3Qx3w5qRE7XAfK0YSELiXTBW5YF1YzfPbmdxgDUnxH-lmWdCmrmBEo7D7OgDMOGEhBI_eOBGH4SRF8Wr56kUL1UGhQTCHx18AkLHRClkwhmzX49Zt872Q",
+         "scope": "GOOGLE",
+         "types": [
+            "doctor",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "10833 Le Conte Avenue, Los Angeles"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0658937,
+               "lng": -118.4433608
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.0672426802915,
+                  "lng": -118.4420118197085
+               },
+               "southwest": {
+                  "lat": 34.0645447197085,
+                  "lng": -118.4447097802915
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id": "ff1d346ba270688e832b01b5dc9f84a880118ea9",
+         "name": "UCLA Medical Center: Liau Linda M MD",
+         "place_id": "ChIJMYX43oa8woAR5rkyYmzwePk",
+         "reference": "CmRSAAAAqMzJzGd_kcAsuUHNeMP053ZxutjH78nSGALLoZPr2KG0MR-owO-ZU9uNwCwu9wMkkmucIATg7fIRzXUXI1bPY7US7aiTSxYGKGMsl6evm8GOpHzHRJ4T7PcDrc5rOFG-EhBfzmJPan_f_zyDdqAylkMDGhSM8v6boBZ4Tp3plnvaw6ISVaS1mQ",
+         "scope": "GOOGLE",
+         "types": [
+            "doctor",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "10833 Le Conte Avenue, Los Angeles"
+      }
+   ],
+   "status": "OK"
+}
+
+
+Disconnected from ('127.0.0.1', 58554)
+Connection from ('127.0.0.1', 58565)
+Data receive: 'AT Alford +0.0011150836944580078 kiwi.cs.ucla.edu +34.068930-118.445127 1512432899.680775\n'
+add a friend from Hamilton to Alford
+add a friend from Hamilton to Holiday
+Disconnected from ('127.0.0.1', 58565)
+CONNECTION MADE WITH ('127.0.0.1', 15205)
+WRITE TO ('127.0.0.1', 15205):
+AT Alford +0.0011150836944580078 kiwi.cs.ucla.edu +34.068930-118.445127 1512432899.680775
+
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Alford +0.0011150836944580078 kiwi.cs.ucla.edu +34.068930-118.445127 1512432899.680775
+
+Connection from ('127.0.0.1', 58574)
+Data receive: 'AT Alford +0.0011150836944580078 kiwi.cs.ucla.edu +34.068930-118.445127 1512432899.680775\n'
+Disconnected from ('127.0.0.1', 58574)
+Connection from ('127.0.0.1', 58579)
+Data receive: 'AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775\n'
+add a friend from Hamilton to Alford
+add a friend from Hamilton to Holiday
+Disconnected from ('127.0.0.1', 58579)
+CONNECTION MADE WITH ('127.0.0.1', 15205)
+WRITE TO ('127.0.0.1', 15205):
+AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775
+
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775
+
+Connection from ('127.0.0.1', 58584)
+Data receive: 'AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775\n'
+Disconnected from ('127.0.0.1', 58584)

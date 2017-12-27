@@ -1,0 +1,498 @@
+Connection from ('127.0.0.1', 58469)
+Connection from ('127.0.0.1', 58470)
+Data receive: 'AT Welsh +0.0017058849334716797 be722b24e63742f9ab08b99052e5eadb +34.068930-118.445127 1512432874.357778072\n'
+add a friend from Ball to Holiday
+add a friend from Ball to Welsh
+Data receive: 'WHATSAT\n'
+Wrong number of arguments
+Disconnected from ('127.0.0.1', 58469)
+Disconnected from ('127.0.0.1', 58470)
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Welsh +0.0017058849334716797 be722b24e63742f9ab08b99052e5eadb +34.068930-118.445127 1512432874.357778072
+
+CONNECTION MADE WITH ('127.0.0.1', 15209)
+WRITE TO ('127.0.0.1', 15209):
+AT Welsh +0.0017058849334716797 be722b24e63742f9ab08b99052e5eadb +34.068930-118.445127 1512432874.357778072
+
+Connection from ('127.0.0.1', 58475)
+Data receive: 'WHATSAT be722b24e63742f9ab08b99052e5eadb\n'
+Wrong number of arguments
+Disconnected from ('127.0.0.1', 58475)
+Connection from ('127.0.0.1', 58478)
+Data receive: 'AT Welsh +0.0017058849334716797 be722b24e63742f9ab08b99052e5eadb +34.068930-118.445127 1512432874.357778072\n'
+Disconnected from ('127.0.0.1', 58478)
+Connection from ('127.0.0.1', 58480)
+Data receive: 'WHATSAT be722b24e63742f9ab08b99052e5eadb 2\n'
+Wrong number of arguments
+Disconnected from ('127.0.0.1', 58480)
+Connection from ('127.0.0.1', 58481)
+Data receive: 'WHATSAT be722b24e63742f9ab08b99052e5eadb 1000 1\n'
+Wrong radius given
+Disconnected from ('127.0.0.1', 58481)
+Connection from ('127.0.0.1', 58482)
+Data receive: 'WHATSAT be722b24e63742f9ab08b99052e5eadb 1 1000\n'
+Wrong number of items given
+Disconnected from ('127.0.0.1', 58482)
+Connection from ('127.0.0.1', 58483)
+Data receive: 'WHATSAT be722b24e63742f9ab08b99052e5eadb -10 10\n'
+Wrong radius given
+Disconnected from ('127.0.0.1', 58483)
+Connection from ('127.0.0.1', 58484)
+Data receive: 'WHATSAT be722b24e63742f9ab08b99052e5eadb 10 -10\n'
+Wrong number of items given
+Disconnected from ('127.0.0.1', 58484)
+Connection from ('127.0.0.1', 58485)
+Data receive: 'WHATSAT hello 10 -10\n'
+Wrong number of items given
+Disconnected from ('127.0.0.1', 58485)
+Connection from ('127.0.0.1', 58486)
+Data receive: 'WHATSAT be722b24e63742f9ab08b99052e5eadb r 10\n'
+Not integer
+Disconnected from ('127.0.0.1', 58486)
+Connection from ('127.0.0.1', 58487)
+Data receive: 'WHATSAT be722b24e63742f9ab08b99052e5eadb 10 l\n'
+Not integer
+Disconnected from ('127.0.0.1', 58487)
+Connection from ('127.0.0.1', 58494)
+Data receive: 'AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078\n'
+add a friend from Ball to Holiday
+add a friend from Ball to Welsh
+Disconnected from ('127.0.0.1', 58494)
+Connection from ('127.0.0.1', 58495)
+Data receive: 'AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078\n'
+Disconnected from ('127.0.0.1', 58495)
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078
+
+CONNECTION MADE WITH ('127.0.0.1', 15209)
+WRITE TO ('127.0.0.1', 15209):
+AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078
+
+Connection from ('127.0.0.1', 58499)
+Data receive: 'WHATSAT 6049e9487da6412691d7bb6f21a36b7c 1 1\n'
+Connecting to Google with the message GET /maps/api/place/nearbysearch/json?key=AIzaSyDrVVqQOtz4EqUnXnb1Vnluw3zJuYSlfh8&location=34.068930,-118.445127&radius=1000 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078
+{
+   "html_attributions": [],
+   "next_page_token": "CpQCDwEAAJEYFd9Hd4lsTqUtYvVi5laVE7G0e6ibG6Tnelm63erun9XYW2bMSa8XFRSCbusxRl2ansvr40-Cimf5vPLRX1B3TIu9AAmXGbK82p0swUknzIpzSkvKgnAOcsua-OP6pyQNVqqjnR2YzGn88RV89Iv7miGj-eKhoPiQ7D0a-gbbLaGa6UrXch4Sj4Jhx_0Di52u-p1SMdGmJCY-vRJj54mvdoSOLTHxHwP7T114B5cxWBGNk0QQmlBHCKQyAM7W3WfSeZC-NEmSL7jSA23KCpu16DmaWcf-kXLTkpWwlsurpeSQbT1T0kUL97zjhW-Zy1RTMDlzV7D-x5dtBxMNuKmz069cRtaC8elHkQD2o52dEhAaWxBP4HbOoQNCg8sBhshIGhR5jTBzs0g63Dj2PaNM4Q1PZs4zHw",
+   "results": [
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0522342,
+               "lng": -118.2436849
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.3373061,
+                  "lng": -118.1552891
+               },
+               "southwest": {
+                  "lat": 33.7036519,
+                  "lng": -118.6681759
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+         "name": "Los Angeles",
+         "photos": [
+            {
+               "height": 712,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/100101449848330425696/photos\">Patrick Morrison</a>"
+               ],
+               "photo_reference": "CmRaAAAA0_p_S4ZxdHovDsthLdrCpIJLSkLUrgWzSLZMyO_zGDtesYcBoq2WZ2YVtx3foKjJkpNK7mTXpTo_onTZ0rC3Gh7EX1jMSXcNTaXxIXq3p6c40N2Ww_CyGEqhG3ncvbZ4EhAAWXmpIOfovZLgRbzYJWyjGhS5OUoo1MfPrFMHVnGyhsXeStwIrA",
+               "width": 1200
+            }
+         ],
+         "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+         "reference": "CmRbAAAAI6RUWxKGzsoFsRQRW2Z7LDEW2uqpBd2DEmWF8tXc9QT-r53-Wsr0icQoKzIETX-XhbG64EFr5TdSxQ17VQpSTSBuu7XFmL-qN717W3O2Sxs_uxWXmX0ijk2PMzUH6-_lEhCR7lNbPHJAlIfNuxjRQIomGhSmZsvatNZBz4coBEKIobn7mUMPXg",
+         "scope": "GOOGLE",
+         "types": [
+            "locality",
+            "political"
+         ],
+         "vicinity": "Los Angeles"
+      }
+   ],
+   "status": "OK"
+}
+
+
+Disconnected from ('127.0.0.1', 58499)
+Connection from ('127.0.0.1', 58514)
+Connection from ('127.0.0.1', 58515)
+Data receive: 'AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970\n'
+add a friend from Ball to Holiday
+add a friend from Ball to Welsh
+Data receive: 'AT Alford +0.0012199878692626953 d5e6a1d3f8634e46acafb5445faf29bb +34.068930-118.445127 1512432877.819586992\n'
+add a friend from Ball to Holiday
+add a friend from Ball to Welsh
+Disconnected from ('127.0.0.1', 58514)
+Disconnected from ('127.0.0.1', 58515)
+Connection from ('127.0.0.1', 58518)
+Data receive: 'AT Alford +0.0012199878692626953 d5e6a1d3f8634e46acafb5445faf29bb +34.068930-118.445127 1512432877.819586992\n'
+Disconnected from ('127.0.0.1', 58518)
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970
+
+CONNECTION MADE WITH ('127.0.0.1', 15209)
+WRITE TO ('127.0.0.1', 15209):
+AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970
+
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Alford +0.0012199878692626953 d5e6a1d3f8634e46acafb5445faf29bb +34.068930-118.445127 1512432877.819586992
+
+CONNECTION MADE WITH ('127.0.0.1', 15209)
+WRITE TO ('127.0.0.1', 15209):
+AT Alford +0.0012199878692626953 d5e6a1d3f8634e46acafb5445faf29bb +34.068930-118.445127 1512432877.819586992
+
+Connection from ('127.0.0.1', 58529)
+Connection from ('127.0.0.1', 58531)
+Data receive: 'AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970\n'
+add a friend from Ball to Holiday
+add a friend from Ball to Welsh
+Disconnected from ('127.0.0.1', 58529)
+Data receive: 'LLL\n'
+Wrong data
+Disconnected from ('127.0.0.1', 58531)
+Connection from ('127.0.0.1', 58533)
+Connection from ('127.0.0.1', 58537)
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970
+
+CONNECTION MADE WITH ('127.0.0.1', 15209)
+WRITE TO ('127.0.0.1', 15209):
+AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970
+
+Data receive: 'AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970\n'
+Data receive: 'IAMTA kiwi +34.068930-118.445127 1479413884.392014450\n'
+Wrong data
+Disconnected from ('127.0.0.1', 58533)
+Disconnected from ('127.0.0.1', 58537)
+Connection from ('127.0.0.1', 58542)
+Data receive: 'AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970\n'
+Connection from ('127.0.0.1', 58543)
+Disconnected from ('127.0.0.1', 58542)
+Data receive: 'IAMAT ki wi +34.068930-118.445127 1479413884.392014450\n'
+Wrong num of arguments
+Disconnected from ('127.0.0.1', 58543)
+Connection from ('127.0.0.1', 58544)
+Data receive: 'IAMAT kiwi 34.068930-118.445127 1479413884.392014450\n'
+Wrong location format
+Disconnected from ('127.0.0.1', 58544)
+Connection from ('127.0.0.1', 58545)
+Data receive: 'IAMAT kiwi -118.445127 1479413884.392014450\n'
+Wrong location format
+Disconnected from ('127.0.0.1', 58545)
+Connection from ('127.0.0.1', 58546)
+Data receive: 'IAMAT kiwi +18.445127 1479413884.392014450\n'
+Wrong location format
+Disconnected from ('127.0.0.1', 58546)
+Connection from ('127.0.0.1', 58547)
+Data receive: 'IAMAT kiwi Los_Angeles 1479413884.392014450\n'
+Wrong location format
+Disconnected from ('127.0.0.1', 58547)
+Connection from ('127.0.0.1', 58548)
+Data receive: 'IAMAT ki wi +34.068930-118.445127 NOW\n'
+Wrong num of arguments
+Disconnected from ('127.0.0.1', 58548)
+Connection from ('127.0.0.1', 58549)
+Data receive: 'IAMAT kiwi +34.060000-118.000000 -1479413884.392014450\n'
+Wrong time
+Disconnected from ('127.0.0.1', 58549)
+Connection from ('127.0.0.1', 58550)
+Data receive: 'IAMAT kiwi +34.060000-118.000000 -1479413884.392014450 HELLO\n'
+Wrong num of arguments
+Disconnected from ('127.0.0.1', 58550)
+Connection from ('127.0.0.1', 58557)
+Data receive: 'AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117\n'
+add a friend from Ball to Holiday
+add a friend from Ball to Welsh
+Disconnected from ('127.0.0.1', 58557)
+Connection from ('127.0.0.1', 58560)
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117
+
+CONNECTION MADE WITH ('127.0.0.1', 15209)
+WRITE TO ('127.0.0.1', 15209):
+AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117
+
+Data receive: 'AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117\n'
+Disconnected from ('127.0.0.1', 58560)
+Connection from ('127.0.0.1', 58569)
+Data receive: 'AT Alford +0.0011150836944580078 kiwi.cs.ucla.edu +34.068930-118.445127 1512432899.680775\n'
+add a friend from Ball to Holiday
+add a friend from Ball to Welsh
+Disconnected from ('127.0.0.1', 58569)
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Alford +0.0011150836944580078 kiwi.cs.ucla.edu +34.068930-118.445127 1512432899.680775
+
+CONNECTION MADE WITH ('127.0.0.1', 15209)
+WRITE TO ('127.0.0.1', 15209):
+AT Alford +0.0011150836944580078 kiwi.cs.ucla.edu +34.068930-118.445127 1512432899.680775
+
+Connection from ('127.0.0.1', 58573)
+Data receive: 'AT Alford +0.0011150836944580078 kiwi.cs.ucla.edu +34.068930-118.445127 1512432899.680775\n'
+Disconnected from ('127.0.0.1', 58573)
+Connection from ('127.0.0.1', 58578)
+Data receive: 'AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775\n'
+add a friend from Ball to Holiday
+add a friend from Ball to Welsh
+Disconnected from ('127.0.0.1', 58578)
+CONNECTION MADE WITH ('127.0.0.1', 15208)
+WRITE TO ('127.0.0.1', 15208):
+AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775
+
+CONNECTION MADE WITH ('127.0.0.1', 15209)
+WRITE TO ('127.0.0.1', 15209):
+AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775
+
+Connection from ('127.0.0.1', 58587)
+Data receive: 'AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775\n'
+Disconnected from ('127.0.0.1', 58587)
+Connection from ('127.0.0.1', 58588)
+Data receive: 'WHATSAT kiwi.cs.ucla.edu 10 5\n'
+Connecting to Google with the message GET /maps/api/place/nearbysearch/json?key=AIzaSyDrVVqQOtz4EqUnXnb1Vnluw3zJuYSlfh8&location=34.0403685,-118.4427905&radius=10000 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775
+{
+   "html_attributions": [],
+   "next_page_token": "CpQCDwEAANs2Zhji0z_SIX85pxwTTNMF1Pme4qoct6pUa9bnba-2mRgewJvOv_eCA3C8R4jPe_rmhhh1qa8fWf6757cSiy3Yq5cLKhZTNdH1tIBX2pyUotkdTrjn2Bv36WYFwLbOnVGYU7W21qUFBsaKfAcStaapPoP5aDWTA2eU0CGVt6npoTFFOjzDlYywv8bjH0q9HoPg16KphtkuM5d20shV1inRT3HJlfy8ovlwv_s5XNWVeT-GdPXCC17oVoqToGe6WKKtaP2wN9GDJvyAv88Om0aNOKdgi4e06AYnrDpMDo_Vq69HtfCccJVWVv2IHkhXHpw4UZy52rQNqcKMt67jRQ9UxJ-73C6AcYPK6nXFhh8EEhAhbj61V7F1I71E7lDDSx3rGhSrV-2OUT7AeNcLRQGm1xrRIzWo6Q",
+   "results": [
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0522342,
+               "lng": -118.2436849
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.3373061,
+                  "lng": -118.1552891
+               },
+               "southwest": {
+                  "lat": 33.7036519,
+                  "lng": -118.6681759
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+         "name": "Los Angeles",
+         "photos": [
+            {
+               "height": 712,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/100101449848330425696/photos\">Patrick Morrison</a>"
+               ],
+               "photo_reference": "CmRaAAAAZOWj-NKiDAahvcc-vX_96fgSgWHjBKrK8V-so-RDT1btSLG0K_TRrbGD0jdbNbp37LJsY9KohGiX4JHJrahV-jvLbI9jj9308o6YkQip-n7EEn-CWbqhH8r5efLDPucREhC9HqOrmkH6szhBPSPm0JquGhQr0LvYDsSm1Xbezm-SN8VuQORzDA",
+               "width": 1200
+            }
+         ],
+         "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+         "reference": "CmRbAAAAtpldMyEKeeXIiMR38R_cTqrXvE6XZrq6gyRukKPIm-xSXr7AqyCwLSYOJvUPXPVO3vEhkrdjg4TG98BgAx-OUTcDI9_6dcF3gz7Y6u1NtVTRJF7FjIR9c5pWMn4K2BPWEhD4ERFbSCMPGU4cA7BEmNjPGhTt7bY8kqUUq--w_cu6yaFh7-9yww",
+         "scope": "GOOGLE",
+         "types": [
+            "locality",
+            "political"
+         ],
+         "vicinity": "Los Angeles"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.015431,
+               "lng": -118.49896
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.0166399302915,
+                  "lng": -118.4978005697085
+               },
+               "southwest": {
+                  "lat": 34.0139419697085,
+                  "lng": -118.5004985302915
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id": "6386ccce03d4d355c8c2a4a79253097969895413",
+         "name": "Hotel Shangri-La",
+         "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+         },
+         "photos": [
+            {
+               "height": 500,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/102232977187075463033/photos\">Hotel Shangri-La</a>"
+               ],
+               "photo_reference": "CmRaAAAAvKE5_NUdU5IKz6bq7hFDuDkE3f3Glou_yC_XbLKi9jnQhj_J0vcu0JOroHPbNFJlMhX-GUzv55vAGA6WSTz6r2O_tTzsY18ylFmkLeLCQ9OjpNzuY7dxq0XjGcVajOVxEhAbkTVG5dxP1E5FH2FIjIUkGhSCTwQ-j4b6bBcRgOCjk6gvJ-GNOw",
+               "width": 980
+            }
+         ],
+         "place_id": "ChIJIxnYQcWkwoARVbqXi2BrqlM",
+         "rating": 4.1,
+         "reference": "CmRRAAAAogldBgEIHQ31no8RQtW-FbTtHzMneTgDbV3sEHPKGEA01MJU6LZ1MHCET37oYcVE-f82DTx3vnldcqwRqamYXV7uxv5YgmTcAD6vrUJiKe3jHrQ3BawsORKG5KGYvrm6EhB0iR8DLEvBqJ948h6WkYmZGhSWLjnRryQcs-Fzo1rd1jz69hoNpw",
+         "scope": "GOOGLE",
+         "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "1301 Ocean Avenue, Santa Monica"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0466276,
+               "lng": -118.4473661
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.0480337802915,
+                  "lng": -118.4459429697085
+               },
+               "southwest": {
+                  "lat": 34.04533581970851,
+                  "lng": -118.4486409302915
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id": "2b21d456606fcc54a7dc1129c912defa289f9e9a",
+         "name": "Holiday Inn Express West Los Angeles",
+         "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+         },
+         "photos": [
+            {
+               "height": 608,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/115825071599629851306/photos\">Holiday Inn Express West Los Angeles</a>"
+               ],
+               "photo_reference": "CmRaAAAADE4VltN35mBmtppL-AHVkzVh0RomIfs9uJAnTKk5xVdGHH7FsHcV2kC44bmqNQBXI_SGGnnjIHmttNtehfy_UEefa1UDs0KuGchTyepZkzXSdib_YqddMTQAWnzFEBGAEhCaHR1cj8S3qxUsQIbr2dfYGhTK3TrHPEA9pxF-FPu_840pmQRb_Q",
+               "width": 1080
+            }
+         ],
+         "place_id": "ChIJuQNqk3C7woARlnbSL3nEkUM",
+         "rating": 3.9,
+         "reference": "CmRRAAAAknaVhzho3KjGtmpjNzLc3JRMlsl05lcBMOPZiNZkgOjjktepnTt_S96GBd-ySSjrAadQ0R9jbdPg3g4Q537aAaafYztwpp9QVvxTM5Dg4LQl3tu_T80xLsayYemzrgxQEhCgXHqVxHiklAYlPm7i--3IGhTwH2qv9cdHt8W_5A4AXPcEIvHrRg",
+         "scope": "GOOGLE",
+         "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "11250 California State Route 2, Los Angeles"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.03454809999999,
+               "lng": -118.4333429
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.03582908029149,
+                  "lng": -118.4321220197085
+               },
+               "southwest": {
+                  "lat": 34.03313111970849,
+                  "lng": -118.4348199802915
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id": "d6f569df72798ca70f1cfa1a3662294f8fc0a052",
+         "name": "Best Western Royal Palace Inn & Suites",
+         "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+         },
+         "photos": [
+            {
+               "height": 2562,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/102783467123895644660/photos\">Best Western Royal Palace Inn &amp; Suites</a>"
+               ],
+               "photo_reference": "CmRaAAAAjgMMJG7EZ_1q1darWlYgzA0PQ2hq-0I5RLT3dT05uWae5VR8N3q71fUevA1anFzOIPoAcrFhq1t18XEkRsEOLGQMurC1BFYVR-VQFStJUhPYPPxbpAVxhjVdj8E8tEcnEhB6bOHjUWXe4oo3MyRUA9yIGhRCcMwvI71iUBYTCXlx94Yh02x-7w",
+               "width": 3839
+            }
+         ],
+         "place_id": "ChIJTbP6I6S7woART1N84YR5n14",
+         "rating": 4,
+         "reference": "CmRRAAAABfMvM4cjHc1whxFFK1a3jlWRzxmsOWQTjn7y4yqz0kdH-0bddlQQpo9WdPgCwGm5K1NILqeqrNVxMgP0v1s7hGJWdUhA8_q1oqmNdhBury0Mw2rSbt1fhgt0uy41HzyTEhB262bCpO9Q4yZZROOTR3kIGhT732IVUHJ2nQUXnvfjO1VnaU_mcQ",
+         "scope": "GOOGLE",
+         "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "2528 South Sepulveda Boulevard, Los Angeles"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0413569,
+               "lng": -118.4293514
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.04266363029151,
+                  "lng": -118.4280739197085
+               },
+               "southwest": {
+                  "lat": 34.03996566970851,
+                  "lng": -118.4307718802915
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id": "9a63a2b9c1cc819bf83fe2efc9c7de884891fef5",
+         "name": "LA Sky Boutique Hotel",
+         "photos": [
+            {
+               "height": 3036,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/115050886377561768985/photos\">Jacob Padgett</a>"
+               ],
+               "photo_reference": "CmRaAAAAm9S98srdseBetwWUnXvEME9LEszAzOy307WqWK2gcLmLHCoZY14Q8WG9MPj2-NawDaObqMAOTMEx6Y7fBWbViSd-ZiR1oxpstR93dMMV4lXkjZXQSl6BmC-JBjGdGk-mEhDUH45gmEG4xmStXTI6L8FCGhQmQpzfJivQ9_Q3vl7ts220tDcIkg",
+               "width": 4048
+            }
+         ],
+         "place_id": "ChIJ18BBvaK7woARX5pGChPVQio",
+         "rating": 3.4,
+         "reference": "CmRRAAAAYlQeLDaeDI5Af1Eg5O1cdtjiGyJCsR-Ox5zfVUMkHoWtuJtVGdY_PiUWsG6QGXqaVGb1i6baugAHtwlqnwApnyHwKmZRAZlOQQHzysUePuwre0BcTQiCIQ26qfjd_yh3EhAe6daWmGwDjBri0BEY2Co8GhSccdZuOEnao0Jeba8BRmsR9RSzcQ",
+         "scope": "GOOGLE",
+         "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "2352 Westwood Boulevard, Los Angeles"
+      }
+   ],
+   "status": "OK"
+}
+
+
+Disconnected from ('127.0.0.1', 58588)

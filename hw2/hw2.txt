@@ -1,0 +1,52 @@
+For the warm up, the difficult part is how to turn the list of pairs into the function form. 
+I wrote a helper function that recursively check all the pairs, and append the pairs with 
+same start symbol together.
+
+
+(parse_prefix)
+This part is really hard at first. I have no idea how to approach this proble. In the 
+discussion, the TA mentioned that we need to deal with two cases: go deeper and go 
+wider. There are two functions that are responsible for each part. It's really helpful
+and I got the initial idea that one function is to check the rules one byone, another is
+to deal with the symbols inside the rule.
+
+My code consists of two matchers that recursively call each other. The basic idea is that 
+the or_matcher checks the rules one by one. If the first rule generates something that is 
+not None, then return it; else explore the reamining parts. The and_matcher is checking 
+specifiaclly whether a specific rule can produce symbols that correspond to the fragment list. 
+
+In terms of specific implementation, we need to consider the the nonterminals and terminals seperately.
+
+For a right hand side rule, we check its contents one by one. This part is done in the and_matcher. 
+
+If the symbol is a terminal, we check whether this symbol corresponds to the symbol in the 
+fragment list. If not, then this rule will definitely not work. So we discard this rule 
+and return none to the or_matcher. If it is, we go on the check the rest of fragment list.
+
+If the symbol is a nonterminal, we start to call the or_matcher again as if it's the 
+start symbol to find  possible derivations for this symbol. And in this case, the acceptor
+we passed into or_matcher needs to  be updated because what is gonna be generated is just a 
+derivation of non_terminal, we still need to go over the remaining parts of the original rule.
+
+I think the biggest challenge is that you need to figure the realtionship between this two functions. Like when
+you need to update the acceptor, when to discard the rule and return. Another obstacle I meet is like the 
+"dangling if" problem. Sometimes the match will match to statements of another match. I solved this
+problem by shorten the number of match and make the branches of each match close to each other.
+
+
+(Weakness)
+My grammar will fall into infinite loop in some cases.
+For example, when some nonterminals call each other recursively like 
+
+let my_grammar2 = (Wang,
+  function
+    | Wang->
+        [[N Zhang]]
+    | Zhang ->
+        [[N Wang]]
+)
+
+let test_3 = (parse_prefix my_grammar2 accept_all ["2"])
+
+The program will go to infinite loop.
+

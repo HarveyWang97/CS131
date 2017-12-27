@@ -1,0 +1,201 @@
+Connection from ('127.0.0.1', 58473)
+Data receive: 'AT Welsh +0.0017058849334716797 be722b24e63742f9ab08b99052e5eadb +34.068930-118.445127 1512432874.357778072\n'
+add a friend from Holiday to Ball
+add a friend from Holiday to Hamilton
+Disconnected from ('127.0.0.1', 58473)
+Connection from ('127.0.0.1', 58477)
+Data receive: 'AT Welsh +0.0017058849334716797 be722b24e63742f9ab08b99052e5eadb +34.068930-118.445127 1512432874.357778072\n'
+Disconnected from ('127.0.0.1', 58477)
+CONNECTION MADE WITH ('127.0.0.1', 15206)
+WRITE TO ('127.0.0.1', 15206):
+AT Welsh +0.0017058849334716797 be722b24e63742f9ab08b99052e5eadb +34.068930-118.445127 1512432874.357778072
+
+CONNECTION MADE WITH ('127.0.0.1', 15207)
+WRITE TO ('127.0.0.1', 15207):
+AT Welsh +0.0017058849334716797 be722b24e63742f9ab08b99052e5eadb +34.068930-118.445127 1512432874.357778072
+
+Connection from ('127.0.0.1', 58492)
+Data receive: 'AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078\n'
+add a friend from Holiday to Ball
+add a friend from Holiday to Hamilton
+Disconnected from ('127.0.0.1', 58492)
+CONNECTION MADE WITH ('127.0.0.1', 15206)
+WRITE TO ('127.0.0.1', 15206):
+AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078
+
+CONNECTION MADE WITH ('127.0.0.1', 15207)
+WRITE TO ('127.0.0.1', 15207):
+AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078
+
+Connection from ('127.0.0.1', 58497)
+Data receive: 'AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078\n'
+Disconnected from ('127.0.0.1', 58497)
+Connection from ('127.0.0.1', 58501)
+Data receive: 'WHATSAT 6049e9487da6412691d7bb6f21a36b7c 1 1\n'
+Connecting to Google with the message GET /maps/api/place/nearbysearch/json?key=AIzaSyDrVVqQOtz4EqUnXnb1Vnluw3zJuYSlfh8&location=34.068930,-118.445127&radius=1000 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+AT Alford +0.0008139610290527344 6049e9487da6412691d7bb6f21a36b7c +34.068930-118.445127 1512432874.376146078
+{
+   "html_attributions": [],
+   "next_page_token": "CpQCDwEAAE5LUAHBjnVUhW0-pIkNGe1l2YzFBhPIsx94DwmE0ooBLUF7dzJQjTguwhyX4q4nNsUPHNZbATCzqSMBqfcwHyhSx1SnPtjoEan1CUsqC5Xyo23RyKIn4PdybJXM0o8VxGZYv9D7oRxWf8G7WFaKpoqhgpaihQohVWcbNXyAaPE7tzeXpFhSq8sPWilyjw9l23yCOsL7u9Z2cWgnrYKadb_AOp_MQozmfBv9UGB_vgMRd_hZ7iaXtzgKjSfhqqs1nc9HkBG9-YlZv5hGV1NOoMiGPiw7r5lOw14EWBqcHIxI_Q5LUGxZUx4F-Ib3eQS7oEICqNjjbM0LonQRMc5NQxZfNLgJShcbHM_jO2jzkIM-EhCE5aXixJhjEa9FdhERyiMOGhTf3OUsXloxbHr76kAjouo3zfDoaw",
+   "results": [
+      {
+         "geometry": {
+            "location": {
+               "lat": 34.0522342,
+               "lng": -118.2436849
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 34.3373061,
+                  "lng": -118.1552891
+               },
+               "southwest": {
+                  "lat": 33.7036519,
+                  "lng": -118.6681759
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+         "name": "Los Angeles",
+         "photos": [
+            {
+               "height": 712,
+               "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/100101449848330425696/photos\">Patrick Morrison</a>"
+               ],
+               "photo_reference": "CmRaAAAA8obH1YY8yqnqQUYuGRTU59u3vLCTBt76KNHFsJRlgpjIitJohv87MXJ6DNNVlRMB-RWwkgeuW7pZPIRBe5g4dw90eZ657cYSYF_nbPZlFpR9qCb70Yu9Ja4maVD26NJSEhApfgCEn7ZlkcHRjNJitIFIGhQ0o-80Tdl81H9v6dzvKMxxVHi0tA",
+               "width": 1200
+            }
+         ],
+         "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+         "reference": "CmRbAAAAn7VrhvnWBEwlsl2XZNRD86CabsZjoVuK_VVZ_osaZDq_y9CmyUCnc8umGduiG3QtKli5afdMLugTFlc490TfHVvy3UfBrAC6g2zzss_ryuaj6H_XSM5zCzsP4YlkIX0dEhCI-3siLF-4GqTHR-a7R7NdGhS7eGsMYs9iQhlDLrrMjwxIEqEq_Q",
+         "scope": "GOOGLE",
+         "types": [
+            "locality",
+            "political"
+         ],
+         "vicinity": "Los Angeles"
+      }
+   ],
+   "status": "OK"
+}
+
+
+Disconnected from ('127.0.0.1', 58501)
+Connection from ('127.0.0.1', 58510)
+Data receive: 'IAMAT 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970\n'
+Send to customer:b'AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970\n'
+add a friend from Holiday to Ball
+add a friend from Holiday to Hamilton
+Disconnected from ('127.0.0.1', 58510)
+Connection from ('127.0.0.1', 58512)
+CONNECTION MADE WITH ('127.0.0.1', 15206)
+WRITE TO ('127.0.0.1', 15206):
+AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970
+
+CONNECTION MADE WITH ('127.0.0.1', 15207)
+WRITE TO ('127.0.0.1', 15207):
+AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970
+
+Data receive: 'AT Alford +0.0012199878692626953 d5e6a1d3f8634e46acafb5445faf29bb +34.068930-118.445127 1512432877.819586992\n'
+add a friend from Holiday to Ball
+add a friend from Holiday to Hamilton
+Disconnected from ('127.0.0.1', 58512)
+Connection from ('127.0.0.1', 58517)
+Data receive: 'IAMAT 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512431877.821501970\n'
+Send to customer:b'AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970\n'
+Disconnected from ('127.0.0.1', 58517)
+CONNECTION MADE WITH ('127.0.0.1', 15206)
+WRITE TO ('127.0.0.1', 15206):
+AT Alford +0.0012199878692626953 d5e6a1d3f8634e46acafb5445faf29bb +34.068930-118.445127 1512432877.819586992
+
+CONNECTION MADE WITH ('127.0.0.1', 15207)
+WRITE TO ('127.0.0.1', 15207):
+AT Alford +0.0012199878692626953 d5e6a1d3f8634e46acafb5445faf29bb +34.068930-118.445127 1512432877.819586992
+
+Connection from ('127.0.0.1', 58521)
+Connection from ('127.0.0.1', 58522)
+Connection from ('127.0.0.1', 58523)
+Data receive: 'AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970\n'
+Disconnected from ('127.0.0.1', 58522)
+Data receive: 'IAMAT 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970\n'
+Send to customer:b'AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970\n'
+add a friend from Holiday to Ball
+add a friend from Holiday to Hamilton
+Connection from ('127.0.0.1', 58525)
+Disconnected from ('127.0.0.1', 58523)
+Data receive: 'AT Holiday +0.0013511180877685547 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512432877.821501970\n'
+Data receive: 'AT Alford +0.0012199878692626953 d5e6a1d3f8634e46acafb5445faf29bb +34.068930-118.445127 1512432877.819586992\n'
+CONNECTION MADE WITH ('127.0.0.1', 15206)
+WRITE TO ('127.0.0.1', 15206):
+AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970
+
+CONNECTION MADE WITH ('127.0.0.1', 15207)
+WRITE TO ('127.0.0.1', 15207):
+AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970
+
+Disconnected from ('127.0.0.1', 58521)
+Disconnected from ('127.0.0.1', 58525)
+Connection from ('127.0.0.1', 58535)
+Connection from ('127.0.0.1', 58536)
+Data receive: 'AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970\n'
+Disconnected from ('127.0.0.1', 58536)
+Data receive: 'AT Holiday -999.9918148517609 5522068b711d44bfa0116ea740c2813f +34.068930-118.445127 1512433877.821501970\n'
+Disconnected from ('127.0.0.1', 58535)
+Connection from ('127.0.0.1', 58553)
+Data receive: 'AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117\n'
+add a friend from Holiday to Ball
+add a friend from Holiday to Hamilton
+Disconnected from ('127.0.0.1', 58553)
+CONNECTION MADE WITH ('127.0.0.1', 15206)
+WRITE TO ('127.0.0.1', 15206):
+AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117
+
+CONNECTION MADE WITH ('127.0.0.1', 15207)
+WRITE TO ('127.0.0.1', 15207):
+AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117
+
+Connection from ('127.0.0.1', 58561)
+Data receive: 'AT Hamilton +0.0007998943328857422 5cd5aa047f24427db0a261aa02655b8e +34.068930-118.445127 1512432877.846048117\n'
+Disconnected from ('127.0.0.1', 58561)
+Connection from ('127.0.0.1', 58570)
+Connection from ('127.0.0.1', 58571)
+Data receive: 'AT Alford +0.0011150836944580078 kiwi.cs.ucla.edu +34.068930-118.445127 1512432899.680775\n'
+add a friend from Holiday to Ball
+add a friend from Holiday to Hamilton
+Disconnected from ('127.0.0.1', 58570)
+Data receive: 'AT Alford +0.0011150836944580078 kiwi.cs.ucla.edu +34.068930-118.445127 1512432899.680775\n'
+Disconnected from ('127.0.0.1', 58571)
+CONNECTION MADE WITH ('127.0.0.1', 15206)
+WRITE TO ('127.0.0.1', 15206):
+AT Alford +0.0011150836944580078 kiwi.cs.ucla.edu +34.068930-118.445127 1512432899.680775
+
+CONNECTION MADE WITH ('127.0.0.1', 15207)
+WRITE TO ('127.0.0.1', 15207):
+AT Alford +0.0011150836944580078 kiwi.cs.ucla.edu +34.068930-118.445127 1512432899.680775
+
+Connection from ('127.0.0.1', 58577)
+Data receive: 'IAMAT kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775\n'
+Send to customer:b'AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775\n'
+add a friend from Holiday to Ball
+add a friend from Holiday to Hamilton
+Disconnected from ('127.0.0.1', 58577)
+CONNECTION MADE WITH ('127.0.0.1', 15206)
+WRITE TO ('127.0.0.1', 15206):
+AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775
+
+CONNECTION MADE WITH ('127.0.0.1', 15207)
+WRITE TO ('127.0.0.1', 15207):
+AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775
+
+Connection from ('127.0.0.1', 58580)
+Data receive: 'AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775\n'
+Disconnected from ('127.0.0.1', 58580)
+Connection from ('127.0.0.1', 58583)
+Data receive: 'AT Holiday +0.5960941314697266 kiwi.cs.ucla.edu +34.0403685-118.4427905 1512432900.680775\n'
+Disconnected from ('127.0.0.1', 58583)
